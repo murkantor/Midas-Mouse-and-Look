@@ -1,4 +1,4 @@
-> **Disclaimer:** this library was extracted from Project Midas with AI assistance ([Claude Code](https://claude.com/claude-code)). It has been checked by tests and builds, but review it before relying on it, and test the feel by hand in your game.
+> **Disclaimer:** this library was extracted from Project Midas with AI assistance ([Claude Code](https://claude.com/claude-code)).
 
 # Midas Mouse and Look
 
