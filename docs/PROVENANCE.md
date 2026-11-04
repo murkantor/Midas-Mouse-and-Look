@@ -65,7 +65,7 @@ These parts are GoldenEye- or Midas-specific and wouldn't carry over:
 - Input recording and playback, and the headless harnesses.
 - Mouse in menus: the virtual cursor, warping, and parking.
 - The raphnet driver, which has its own repository:
-  [Decomp-Recomp-Raphnet-Raw-Driver](https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver).
+  [Midas-Raphnet-Raw-Driver](https://github.com/murkantor/Midas-Raphnet-Raw-Driver).
 
 ## Keeping in sync
 

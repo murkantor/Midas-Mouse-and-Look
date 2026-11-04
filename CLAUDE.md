@@ -116,7 +116,7 @@ whatever config system the host already has. Don't invent a new config file.
 - **raphnet-class adapters** (VID `0x289B`) read through the joystick API: use
   `mf_stick_raw_units` and skip every deadzone and curve. For the full raphnet
   RAW path, point the user at
-  <https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver>.
+  <https://github.com/murkantor/Midas-Raphnet-Raw-Driver>.
 
 ## Step 5: verify
 

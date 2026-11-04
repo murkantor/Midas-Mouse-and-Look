@@ -4,7 +4,7 @@ This covers PC decomps and recomps of N64, GameCube, PS2 and Xbox games. Every
 port's input layer is different, so this tells you **what to find** in your port
 and **what to put there**, rather than claiming to know any one project's API.
 For real N64 controllers on a raphnet adapter, see the separate
-[Raphnet RAW driver](https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver).
+[Raphnet RAW driver](https://github.com/murkantor/Midas-Raphnet-Raw-Driver).
 Read [FEEL.md](FEEL.md) first: the rules there matter more than the calls here.
 
 ## 0. Add the library

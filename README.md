@@ -13,7 +13,7 @@ PS2, Xbox or anything else.
 Plain C99, no dependencies, no allocation and no globals.
 
 For real N64 controllers on a raphnet adapter, see the companion
-[Decomp-Recomp-Raphnet-Raw-Driver](https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver).
+[Midas-Raphnet-Raw-Driver](https://github.com/murkantor/Midas-Raphnet-Raw-Driver).
 
 ## Add it to your game with one prompt
 

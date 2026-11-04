@@ -3,7 +3,7 @@
 Project Midas gets a lot of compliments on how good the right-stick look is on a
 modern controller and how smooth and responsive the mouse is. (How a real N64 pad
 feels on a raphnet is covered by the separate
-[Raphnet RAW driver](https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver).)
+[Raphnet RAW driver](https://github.com/murkantor/Midas-Raphnet-Raw-Driver).)
 Very little of that comes from clever arithmetic. Most of it comes from a short list of decisions about where input
 enters the game and what is kept *out* of the path. This file is that list. If
 you port only the code and break one of these rules, you lose the feel.
