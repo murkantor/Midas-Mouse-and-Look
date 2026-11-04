@@ -1,3 +1,5 @@
+> **Disclaimer:** this library was extracted from Project Midas with AI assistance ([Claude Code](https://claude.com/claude-code)). It has been checked by tests and builds, but review it before relying on it, and test the feel by hand in your game.
+
 # Midas Mouse and Look
 
 The mouse and controller feel from **Project Midas** (the GoldenEye 007 PC
